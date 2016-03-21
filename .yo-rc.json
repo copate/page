@@ -1,0 +1,14 @@
+{
+  "generator-kraken": {
+    "taskModule": "grunt",
+    "lintModule": "eslint",
+    "description": "SocialDB",
+    "author": "J&J",
+    "templateModule": false,
+    "i18n": false,
+    "componentPackager": "bower",
+    "cssModule": false,
+    "jsModule": "requirejs",
+    "useJson": null
+  }
+}
